@@ -320,6 +320,7 @@ wget -O status "https://raw.githubusercontent.com/artanodrop/v4/main/status.sh"
 wget -O menu-backup "https://raw.githubusercontent.com/kanghory/VPN-2/main/menu/menu-backup.sh"
 wget -O backup "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/backup.sh"
 wget -O restore "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/restore.sh"
+wget -O autobackup "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/autobackup.sh"
 
 wget -O jam "https://raw.githubusercontent.com/artanodrop/v4/main/jam.sh"
 
@@ -367,6 +368,7 @@ chmod +x status
 chmod +x menu-backup
 chmod +x backup
 chmod +x restore
+chmod +x autobackup
 chmod +x jam
 cd
 
