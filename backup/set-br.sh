@@ -43,11 +43,11 @@ logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
 cd /usr/bin
-wget -O autobackup "https://raw.githubusercontent.com/kanghory/VPN/main/backup/autobackup.sh"
-wget -O backup "https://raw.githubusercontent.com/kanghory/VPN/main/backup/backup.sh"
-wget -O restore "https://raw.githubusercontent.com/kanghory/VPN/main/backup/restore.sh"
-wget -O strt "https://raw.githubusercontent.com/kanghory/VPN/main/backup/strt.sh"
-wget -O limitspeed "https://raw.githubusercontent.com/kanghory/VPN/main/backup/limitspeed.sh"
+wget -O autobackup "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/autobackup.sh"
+wget -O backup "https://raw.githubusercontent.com/kanghory/VPN/main-2/backup/backup.sh"
+wget -O restore "https://raw.githubusercontent.com/kanghory/VPN/main-2/backup/restore.sh"
+wget -O strt "https://raw.githubusercontent.com/kanghory/VPN/main/backup-2/strt.sh"
+wget -O limitspeed "https://raw.githubusercontent.com/kanghory/VPN/main-2/backup/limitspeed.sh"
 chmod +x autobackup
 chmod +x backup
 chmod +x restore
