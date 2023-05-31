@@ -317,7 +317,7 @@ wget -O acs-set "https://raw.githubusercontent.com/artanodrop/v4/main/acs-set.sh
 
 wget -O sshws "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/sshws.sh"
 wget -O status "https://raw.githubusercontent.com/artanodrop/v4/main/status.sh"
-wget -O menu-backup "https://raw.githubusercontent.com/kanghory/VPN-2/main/menu-backup.sh"
+wget -O menu-backup "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/menu-backup.sh"
 wget -O backup "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/backup.sh"
 wget -O restore "https://raw.githubusercontent.com/kanghory/VPN-2/main/backup/restore.sh"
 
