@@ -266,7 +266,7 @@ echo -e "${BIYellow}□ License Limit       = 3 VPS ${GREEN}( Persatu IP VPS )${
 echo -e "${BIYellow}□ AutoScript By Dev   = KLMPK ${GREEN}( KANG HORY VPN )${NC}"
 
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "${BICyan} │                  ${BIWhite}${UWhite}KANG HORY VPN TUNELING${NC}"
+echo -e "${BICyan} │                  ${BIWhite}${UWhite}KANG NAZAR VPN TUNELING${NC}"
 echo -e "${BICyan} │"
 echo -e " ${BICyan}│  ${BICyan}Use Core        :  ${BIPurple}XRAY${NC}"
 echo -e " ${BICyan}│  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS${NC}"
